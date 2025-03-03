@@ -6,9 +6,13 @@
 I'm a passionate Full-Stack Developer who loves building interactive and user-friendly web applications. With expertise in React, Node, and Express.js, I focus on creating seamless user experiences with clean and efficient code.
 
 🔭 Currently working on React-based projects with Firebase integration
+
 🌱 Exploring backend development and cloud services
+
 🎯 Passionate about UI/UX, animations, and performance optimization
+
 💡 Love solving real-world problems with technology
+
 
 ## 🛠 Tech Stack
 ## 🛠 Tech Stack
