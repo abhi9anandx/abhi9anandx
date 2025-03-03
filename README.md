@@ -1,6 +1,4 @@
-## 👋 Hey, I'm Abhinav Anand!
-
-![Profile Views](https://komarev.com/ghpvc/?username=abhinavanand&color=blue&style=flat)
+👋 Hey, I'm Abhinav Anand!
 
 
 ## 💫 About Me
@@ -42,6 +40,8 @@ I'm a passionate Full-Stack Developer who loves building interactive and user-fr
 ## ✨ Fun Fact
 
 💡 "I believe every line of code should not just work but also tell a story!"
+
+![Profile Views](https://komarev.com/ghpvc/?username=abhinavanand&color=blue&style=flat)
 
 <!--
 **abhi9anandx/abhi9anandx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
