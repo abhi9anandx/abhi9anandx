@@ -19,7 +19,7 @@
 
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black)
 
 ## 🔥 **Currently Working On**  
 
@@ -31,13 +31,13 @@
 
 ## 📊 GitHub Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=abhinavanand&color=blue&style=flat)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhinavanand&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavanand&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=abhinavanand&theme=radical)  
+![Profile Views](https://komarev.com/ghpvc/?username=abhi9anandx&color=blue&style=flat)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhi9anandx&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi9anandx&layout=compact&theme=radical)  
 
 
-
+## 🏆 **GitHub Trophies**  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=abhi9anandx&theme=radical&margin-w=10)
 
 
 ## 💬 Let's Connect
