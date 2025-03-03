@@ -15,7 +15,6 @@ I'm a passionate Full-Stack Developer who loves building interactive and user-fr
 
 
 ## 🛠 Tech Stack
-## 🛠 Tech Stack
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -31,6 +30,9 @@ I'm a passionate Full-Stack Developer who loves building interactive and user-fr
 
 ![Abhinav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhinavanand&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavanand&layout=compact&theme=dracula)
+
+![GitHub Contribution Graph](https://github.com/abhinavanand/abhinavanand/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
