@@ -1,17 +1,13 @@
-👋 Hey, I'm Abhinav Anand!
-
 
 ## 💫 About Me
 
-I'm a passionate Full-Stack Developer who loves building interactive and user-friendly web applications. With expertise in React, Node, and Express.js, I focus on creating seamless user experiences with clean and efficient code.
+# 👋 Hey, I'm Abhinav Anand!
 
-🔭 Currently working on React-based projects with Firebase integration
+💡 Passionate **MERN Stack Developer** who loves building **scalable & user-friendly applications**. 
 
-🌱 Exploring backend development and cloud services
+🚀 Currently working on **full-stack projects** and **learning Next.js & TypeScript**.
 
-🎯 Passionate about UI/UX, animations, and performance optimization
-
-💡 Love solving real-world problems with technology
+🎯 2025 Goals: **Contribute to Open Source & Build Innovative Products**.
 
 
 ## 🛠 Tech Stack
@@ -25,13 +21,21 @@ I'm a passionate Full-Stack Developer who loves building interactive and user-fr
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
+## 🔥 **Currently Working On**  
+
+- 🚀 Developing **full-stack MERN applications**  
+- 💡 Learning **Next.js & TypeScript**  
+- 🌱 Exploring **GraphQL & Prisma**  
+- 🎯 Preparing for **Open Source Contributions**  
+
 
 ## 📊 GitHub Stats
 
-![Abhinav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhinavanand&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavanand&layout=compact&theme=dracula)
+![Profile Views](https://komarev.com/ghpvc/?username=abhinavanand&color=blue&style=flat)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhinavanand&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavanand&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=abhinavanand&theme=radical)  
 
-![GitHub Contribution Graph](https://github.com/abhinavanand/abhinavanand/blob/output/github-contribution-grid-snake.svg)
 
 
 
@@ -47,7 +51,7 @@ I'm a passionate Full-Stack Developer who loves building interactive and user-fr
 
 💡 "I believe every line of code should not just work but also tell a story!"
 
-![Profile Views](https://komarev.com/ghpvc/?username=abhinavanand&color=blue&style=flat)
+
 
 <!--
 **abhi9anandx/abhi9anandx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
