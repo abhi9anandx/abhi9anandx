@@ -25,7 +25,8 @@ I'm a passionate Full-Stack Developer who loves building interactive and user-fr
 ## 💬 Let's Connect
 
 📩 Reach me at singhabhinav0077@gmail.com
-💼 LinkedIn: lwww.linkedin.com/in/abhinav-anand18
+
+💼 LinkedIn: www.linkedin.com/in/abhinav-anand18
 
 
 ## ✨ Fun Fact
