@@ -1,7 +1,5 @@
 
-## 💫 About Me
-
-# 👋 Hey, I'm Abhinav Anand!
+# Hey, I'm Abhinav 💻
 
 💡 Passionate **MERN Stack Developer** who loves building **scalable & user-friendly applications**. 
 
