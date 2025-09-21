@@ -60,3 +60,13 @@
 
 💡 I write code not just for machines, but for the next developer who reads it — including future me.
 
+<h1 align=center>Experience</h1>
+
+<div align=center>
+
+| Role               | Organisation                                        | Time Period        | Type       |
+| ------------------ | --------------------------------------------------- | ------------------ | ---------- |
+| Backend Developer   | [Homeasy Automation]([https://www.linkedin.com/company/revmaxx](https://in.linkedin.com/company/homeasyautomationiot)) | July 2025 - Present | Full-time  |
+| React Js Developer | [Celebal Technologies]([https://www.linkedin.com/company/pephub](https://in.linkedin.com/company/celebaltechnologies))   | July 2024 - May 2024  | Internship |
+
+</div>
